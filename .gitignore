@@ -1,3 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+blogdown
+.DS_Store # if a windows user, Thumbs.db instead
+public/ # if using Netlify
 
 .Rproj.user/F245E1D3/sources/s-3D93F3F0/lock_file
 .Rproj.user/shared/notebooks/patch-chunk-names
